@@ -1,4 +1,4 @@
-#' An example factorial function
+#' An example sin squared plus cos squared function
 #' @param ratio A non-negative integer
 #' @return Calculates sin squared plus cos squared of the given integer. It should always return 1.
 #' @examples sin_squared_plus_cos_squared(pi / 4)
